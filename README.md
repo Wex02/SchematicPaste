@@ -11,4 +11,8 @@ Only works with schem file structured like this:
 >![image](https://user-images.githubusercontent.com/68199765/138777776-e7e7a3b8-ba11-418b-9bd3-942399509f70.png)
 
 
-##Entities not yet implemented.
+# Included
+flag.schem : Nothing special 3x3x1 wool blocks for testing.
+datatest.schem : 3x3x1 blocks with rotation,slabs,stairs and a furnace
+
+Entities not yet implemented.
