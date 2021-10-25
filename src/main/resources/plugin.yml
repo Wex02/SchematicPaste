@@ -1,0 +1,10 @@
+name: SchematicPaste
+version: ${project.version}
+main: Wex.Main
+api-version: 1.16
+authors: [ Wex01 ]
+
+commands:
+  pasteschematic:
+    usage: /pasteschematic
+    description: pasteschematic
