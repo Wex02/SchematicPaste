@@ -9,7 +9,16 @@
 
 ## Schem Structure
 Only works with schem file structured like this:
->![image](https://user-images.githubusercontent.com/68199765/138777776-e7e7a3b8-ba11-418b-9bd3-942399509f70.png)
+>![image](https://user-images.githubusercontent.com/68199765/138777776-e7e7a3b8-ba11-418b-9bd3-942399509f70.png) 
+   
+Used this extension for VSCode to view NBT data:  
+  
+>Name: NBT Viewer  
+>Id: misodee.vscode-nbt  
+>Description: View Minecraft NBT and 3D structures  
+>Version: 0.6.2  
+>Publisher: Misode  
+>VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=Misodee.vscode-nbt  
 
 
 ## Included
